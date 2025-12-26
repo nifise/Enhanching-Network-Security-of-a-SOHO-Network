@@ -1,2 +1,2 @@
 # Enhanching-Network-Security-of-a-SOHO-Network
-This a SOC networking project where tools like Wazuh, pfSense, Medusa, nmap, and Wireshark were used to discover vulnerabilities in a network and resolve the vulnerabilities.
+Built and monitored a SOC lab using Wazuh, Virus Total, Wireshark, pfSense, Syslog, and Snort to detect scans, DoS attempts, brute-force attacks, and malware, with centralized logging and automated response.
